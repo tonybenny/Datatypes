@@ -1,0 +1,12 @@
+#AreaOfCircle
+r=input("enter the radius of circle:")
+print("area of the circle is:")
+import math
+math.pi
+pi=math.pi
+print(pi*float(r)**2)
+
+#FileExtension
+fn= input("Enter Filename: ")
+f = fn.split(".")
+print ("Extension of the file is : " + f[-1])
